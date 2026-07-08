@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/debasissau/CPP-DSA/tree/master/0001-two-sum) |
+| [0875-koko-eating-bananas](https://github.com/debasissau/CPP-DSA/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,4 +54,8 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/debasissau/CPP-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/debasissau/CPP-DSA/tree/master/0872-leaf-similar-trees) |
+## Binary Search
+|  |
+| ------- |
+| [0875-koko-eating-bananas](https://github.com/debasissau/CPP-DSA/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
