@@ -39,12 +39,14 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/debasissau/CPP-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0437-path-sum-iii](https://github.com/debasissau/CPP-DSA/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/debasissau/CPP-DSA/tree/master/0872-leaf-similar-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/debasissau/CPP-DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/debasissau/CPP-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0437-path-sum-iii](https://github.com/debasissau/CPP-DSA/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/debasissau/CPP-DSA/tree/master/0872-leaf-similar-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/debasissau/CPP-DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
@@ -56,6 +58,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/debasissau/CPP-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0437-path-sum-iii](https://github.com/debasissau/CPP-DSA/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/debasissau/CPP-DSA/tree/master/0872-leaf-similar-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/debasissau/CPP-DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search
