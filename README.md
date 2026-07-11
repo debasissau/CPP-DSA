@@ -71,4 +71,8 @@
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/debasissau/CPP-DSA/tree/master/0700-search-in-a-binary-search-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/debasissau/CPP-DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
