@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/debasissau/CPP-DSA/tree/master/0001-two-sum) |
+| [0204-count-primes](https://github.com/debasissau/CPP-DSA/tree/master/0204-count-primes) |
 | [0875-koko-eating-bananas](https://github.com/debasissau/CPP-DSA/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/debasissau/CPP-DSA/tree/master/0002-add-two-numbers) |
+| [0204-count-primes](https://github.com/debasissau/CPP-DSA/tree/master/0204-count-primes) |
 ## Recursion
 |  |
 | ------- |
@@ -79,4 +81,12 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/debasissau/CPP-DSA/tree/master/0008-string-to-integer-atoi) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/debasissau/CPP-DSA/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/debasissau/CPP-DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
