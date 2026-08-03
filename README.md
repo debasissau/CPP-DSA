@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/debasissau/CPP-DSA/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/debasissau/CPP-DSA/tree/master/0015-3sum) |
 | [0204-count-primes](https://github.com/debasissau/CPP-DSA/tree/master/0204-count-primes) |
 | [0875-koko-eating-bananas](https://github.com/debasissau/CPP-DSA/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
@@ -31,6 +32,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/debasissau/CPP-DSA/tree/master/0015-3sum) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/debasissau/CPP-DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/debasissau/CPP-DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
@@ -89,4 +91,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/debasissau/CPP-DSA/tree/master/0204-count-primes) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/debasissau/CPP-DSA/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
