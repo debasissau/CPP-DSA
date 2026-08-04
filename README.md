@@ -8,6 +8,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/debasissau/CPP-DSA/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/debasissau/CPP-DSA/tree/master/0015-3sum) |
+| [0189-rotate-array](https://github.com/debasissau/CPP-DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/debasissau/CPP-DSA/tree/master/0204-count-primes) |
 | [0875-koko-eating-bananas](https://github.com/debasissau/CPP-DSA/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/debasissau/CPP-DSA/tree/master/0002-add-two-numbers) |
+| [0189-rotate-array](https://github.com/debasissau/CPP-DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/debasissau/CPP-DSA/tree/master/0204-count-primes) |
 ## Recursion
 |  |
@@ -33,6 +35,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/debasissau/CPP-DSA/tree/master/0015-3sum) |
+| [0189-rotate-array](https://github.com/debasissau/CPP-DSA/tree/master/0189-rotate-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/debasissau/CPP-DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/debasissau/CPP-DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
