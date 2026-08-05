@@ -8,6 +8,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/debasissau/CPP-DSA/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/debasissau/CPP-DSA/tree/master/0015-3sum) |
+| [0048-rotate-image](https://github.com/debasissau/CPP-DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/debasissau/CPP-DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/debasissau/CPP-DSA/tree/master/0204-count-primes) |
 | [0867-transpose-matrix](https://github.com/debasissau/CPP-DSA/tree/master/0867-transpose-matrix) |
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/debasissau/CPP-DSA/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/debasissau/CPP-DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/debasissau/CPP-DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/debasissau/CPP-DSA/tree/master/0204-count-primes) |
 ## Recursion
@@ -102,6 +104,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/debasissau/CPP-DSA/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/debasissau/CPP-DSA/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
