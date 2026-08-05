@@ -10,6 +10,7 @@
 | [0015-3sum](https://github.com/debasissau/CPP-DSA/tree/master/0015-3sum) |
 | [0189-rotate-array](https://github.com/debasissau/CPP-DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/debasissau/CPP-DSA/tree/master/0204-count-primes) |
+| [0867-transpose-matrix](https://github.com/debasissau/CPP-DSA/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/debasissau/CPP-DSA/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
@@ -98,4 +99,12 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/debasissau/CPP-DSA/tree/master/0015-3sum) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/debasissau/CPP-DSA/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/debasissau/CPP-DSA/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
