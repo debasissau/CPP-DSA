@@ -11,6 +11,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/debasissau/CPP-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/debasissau/CPP-DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/debasissau/CPP-DSA/tree/master/0054-spiral-matrix) |
+| [0136-single-number](https://github.com/debasissau/CPP-DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/debasissau/CPP-DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/debasissau/CPP-DSA/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/debasissau/CPP-DSA/tree/master/0283-move-zeroes) |
@@ -94,6 +95,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/debasissau/CPP-DSA/tree/master/0136-single-number) |
 | [1486-xor-operation-in-an-array](https://github.com/debasissau/CPP-DSA/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/debasissau/CPP-DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## String
