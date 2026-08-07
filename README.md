@@ -14,6 +14,7 @@
 | [0136-single-number](https://github.com/debasissau/CPP-DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/debasissau/CPP-DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/debasissau/CPP-DSA/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/debasissau/CPP-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/debasissau/CPP-DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/debasissau/CPP-DSA/tree/master/0485-max-consecutive-ones) |
 | [0867-transpose-matrix](https://github.com/debasissau/CPP-DSA/tree/master/0867-transpose-matrix) |
@@ -87,6 +88,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/debasissau/CPP-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0875-koko-eating-bananas](https://github.com/debasissau/CPP-DSA/tree/master/0875-koko-eating-bananas) |
 ## Binary Search Tree
 |  |
@@ -127,4 +129,12 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/debasissau/CPP-DSA/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/debasissau/CPP-DSA/tree/master/0867-transpose-matrix) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/debasissau/CPP-DSA/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/debasissau/CPP-DSA/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
