@@ -22,6 +22,7 @@
 | [0867-transpose-matrix](https://github.com/debasissau/CPP-DSA/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/debasissau/CPP-DSA/tree/master/0875-koko-eating-bananas) |
 | [1572-matrix-diagonal-sum](https://github.com/debasissau/CPP-DSA/tree/master/1572-matrix-diagonal-sum) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/debasissau/CPP-DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/debasissau/CPP-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3731-find-missing-elements](https://github.com/debasissau/CPP-DSA/tree/master/3731-find-missing-elements) |
 ## Hash Table
