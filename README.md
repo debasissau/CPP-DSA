@@ -9,6 +9,7 @@
 | [0001-two-sum](https://github.com/debasissau/CPP-DSA/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/debasissau/CPP-DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/debasissau/CPP-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/debasissau/CPP-DSA/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/debasissau/CPP-DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/debasissau/CPP-DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/debasissau/CPP-DSA/tree/master/0054-spiral-matrix) |
@@ -56,6 +57,7 @@
 | ------- |
 | [0015-3sum](https://github.com/debasissau/CPP-DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/debasissau/CPP-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/debasissau/CPP-DSA/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/debasissau/CPP-DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/debasissau/CPP-DSA/tree/master/0283-move-zeroes) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/debasissau/CPP-DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
