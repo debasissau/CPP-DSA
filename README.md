@@ -21,6 +21,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/debasissau/CPP-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/debasissau/CPP-DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/debasissau/CPP-DSA/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/debasissau/CPP-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0867-transpose-matrix](https://github.com/debasissau/CPP-DSA/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/debasissau/CPP-DSA/tree/master/0875-koko-eating-bananas) |
 | [1572-matrix-diagonal-sum](https://github.com/debasissau/CPP-DSA/tree/master/1572-matrix-diagonal-sum) |
@@ -33,6 +34,7 @@
 | [0001-two-sum](https://github.com/debasissau/CPP-DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/debasissau/CPP-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/debasissau/CPP-DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0560-subarray-sum-equals-k](https://github.com/debasissau/CPP-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [3731-find-missing-elements](https://github.com/debasissau/CPP-DSA/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
@@ -152,6 +154,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/debasissau/CPP-DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/debasissau/CPP-DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
 | ------- |
