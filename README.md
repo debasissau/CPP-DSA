@@ -13,6 +13,7 @@
 | [0048-rotate-image](https://github.com/debasissau/CPP-DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/debasissau/CPP-DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/debasissau/CPP-DSA/tree/master/0054-spiral-matrix) |
+| [0118-pascals-triangle](https://github.com/debasissau/CPP-DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/debasissau/CPP-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/debasissau/CPP-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/debasissau/CPP-DSA/tree/master/0136-single-number) |
@@ -163,6 +164,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/debasissau/CPP-DSA/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/debasissau/CPP-DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/debasissau/CPP-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Union-Find
 |  |
